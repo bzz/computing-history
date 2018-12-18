@@ -22,7 +22,7 @@ whom did this influence
  -
 
 what to read
- - TK link to Tools for Though chapter 
+ - [Chapter 9](http://www.rheingold.com/texts/tft/09.html#Chap09) of the book "Tools for Thoughs"
  - https://www.ibiblio.org/pioneers/engelbart.html
  - http://dougengelbart.org
 

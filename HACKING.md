@@ -6,7 +6,7 @@ Alternative names:
 
 
 ## Short description
-Concise history of computing in persons in Human and Machine readable formats. 
+Concise history of computing in persons in Human and Machine readable formats.
 
 A curated list of people and their works, who were instrumental for having computers as we know them now.
 
@@ -19,15 +19,15 @@ Help broadening understanding of historical context of "computing", sample "powe
 ## Details
 
 This is more of a Media project, than a Technology one as it includes:
- - collecting data about important historical figures of computing, starting with Turing Award winners and 
- - distilling it to short summary 
+ - collecting data about important historical figures of computing, starting with Turing Award winners and
+ - distilling it to short summary
  - manually curating best sources for further reading.
 
 Each person has a small page with a summary of his contributions and links to software / most influencial papers / videos, lectures, etc any other materials for further reading and firsthand experience.
 
 Can be a single .md document for every person, and then a timeline visualization can be generated. Or a web site. Or a graph database. Or any other form of structure knowlege representation.
 
-Inspired by recent interest in Doublas Engelbart works but there are many more people who's worth is worth studing! 
+Inspired by recent interest in Doublas Engelbart works but there are many more people who's worth is worth studing!
 
 Having it in some moldable human/machine readable format (sematic web?) + all external links perseved from archive.org would help to perserve and promote this heritage.
 
@@ -43,7 +43,7 @@ Having it in some moldable human/machine readable format (sematic web?) + all ex
  - https://amturing.acm.org/byyear.cfm
  - https://github.com/devinmcgloin/theory/tree/master/worrydream
  - https://www.ibiblio.org/pioneers/index.html
- - https://ethw.org/Category:Computing_and_electronics 
+ - https://ethw.org/Category:Computing_and_electronics
  - https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
  - http://mrmgroup.cs.princeton.edu/cos583/syllabusS15.pdf
 
@@ -51,31 +51,39 @@ Having it in some moldable human/machine readable format (sematic web?) + all ex
 ---------------------
 
 
-Generate 
+Generate
  - table in `README.md` based on `<>.md` files
  - xrefs for names in *.md
+
+ ```
+   parse all .md
+   person: (name, slug) //from filename
+    generate & replace table in README
+   book
+   article
+ ```
 
 
 Structure?
 
 ```
-name:
-image:
-period:
+name: </br>
+image: </br>
+period: </br>
 
-short bio
- - 
 
-notable concepts
- - 
+### short bio
+ -
 
-whom did this influence
- - 
+### notable concepts
+ -
 
-what to read
- - 
+### whom did this influence
+ -
 
-what to watch
- - 
+### what to read
+ -
+
+### what to watch
+ -
 ```
-
