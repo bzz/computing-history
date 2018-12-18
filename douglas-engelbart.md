@@ -32,7 +32,7 @@ Envisioned and helped building a working hardware+software system in 1968 at SRI
  - http://dougengelbart.org
 
 ### what to watch
- - Interactive ["Mother of All demos"](http://www.dougengelbart.org/content/view/374/464/)
+ - Original Dec 9th, 1968 ["Mother of All demos"](http://www.dougengelbart.org/content/view/374/464/)
  - http://dougengelbart.org/content/view/258/000/
- - http://www.augmentationfilm.com
+ - Documentary movie ["The Augmentation of Douglas Engelbart"](http://www.augmentationfilm.com)
  - 
