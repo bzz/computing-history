@@ -6,9 +6,11 @@ period: 1940s
 
 ### short bio
  American engineer, inventor and science administrator. 
- MIT, Manhattan Project, AT&T Board member
- Analog computers - "difference engine", Memex
+ Analog computers, "difference engine", Memex
  1940 rejection of Norbert Norbert Wiener's proposal building digital computer.
+
+### affiliations
+ - MIT, Manhattan Project, AT&T Board member
 
 ### notable concepts
  - Differential analyzer (TK link!)

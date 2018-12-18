@@ -1,12 +1,17 @@
-name: J.C.R. Licklider </br>
-image: </br>
-period: 1960s </br>
+name: J.C.R. Licklider
+
+image:
+
+period: 1960s
 
 ### short bio
- - MIT
 
 In 1960 outlined the perspective of interactive computing. 
 Personal computer revolution.
+
+### affiliations
+ - MIT
+ - DARPA
 
 ### notable concepts
  - "Man-computer simbiosys"
