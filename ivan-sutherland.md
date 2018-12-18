@@ -14,7 +14,7 @@ period: 1960s
  - Associate Professor of Electrical Engineering at Harvard
  - Professor at the University of Utah
  - Professor of Computer Science at California Institute of Technology
- -  Fellow and Vice President at Sun Microsystems
+ - Fellow and Vice President at Sun Microsystems
 
 Interactive computing, CGI.
 On TX-2 computer he developed a software+input device for interactive computer graphics.

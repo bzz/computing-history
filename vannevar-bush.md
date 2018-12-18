@@ -25,5 +25,5 @@ period: 1940s
 - https://www.ibiblio.org/pioneers/bush.html
 
 ### what to watch
- - 50th anniversary of "As we may think" http://dougengelbart.org/content/view/258/000/
+ - videos from The MIT/Brown symposium from 1995, celebrating the 50th anniversary of article "As we may think" http://dougengelbart.org/content/view/258/000/
  - 
