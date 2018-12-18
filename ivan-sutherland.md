@@ -11,10 +11,14 @@ period: 1960s
 ### affiliations
  - MIT
  - DARPA, replaced J.C.R. Licklider when he returned to MIT in 1964
+ - Associate Professor of Electrical Engineering at Harvard
+ - Professor at the University of Utah
+ - Professor of Computer Science at California Institute of Technology
+ -  Fellow and Vice President at Sun Microsystems
 
-
-Interactive computing, CGI
-on TX-2 developed a software+input device for interactive computer graphics
+Interactive computing, CGI.
+On TX-2 computer he developed a software+input device for interactive computer graphics.
+First virtual reality system.
 
 ### notable concepts
  - Sketchpad
