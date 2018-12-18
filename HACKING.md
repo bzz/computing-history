@@ -63,27 +63,4 @@ Generate
    article
  ```
 
-
-Structure?
-
-```
-name: </br>
-image: </br>
-period: </br>
-
-
-### short bio
- -
-
-### notable concepts
- -
-
-### whom did this influence
- -
-
-### what to read
- -
-
-### what to watch
- -
-```
+ - person template structure refactoring?
