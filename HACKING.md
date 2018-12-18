@@ -44,4 +44,38 @@ Having it in some moldable human/machine readable format (sematic web?) + all ex
  - https://github.com/devinmcgloin/theory/tree/master/worrydream
  - https://www.ibiblio.org/pioneers/index.html
  - https://ethw.org/Category:Computing_and_electronics 
+ - https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
+ - http://mrmgroup.cs.princeton.edu/cos583/syllabusS15.pdf
+
+
+---------------------
+
+
+Generate 
+ - table in `README.md` based on `<>.md` files
+ - xrefs for names in *.md
+
+
+Structure?
+
+```
+name:
+image:
+period:
+
+short bio
+ - 
+
+notable concepts
+ - 
+
+whom did this influence
+ - 
+
+what to read
+ - 
+
+what to watch
+ - 
+```
 
