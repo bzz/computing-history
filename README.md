@@ -22,7 +22,7 @@
  - Scientific revolution: 450 years ago
  - Fossil fuel revolution (coal, trains): 180 years ago
  - Telephone 130 years ago
- - Turing's paper: 85 years ago
+ - Turing's seminal paper: 85 years ago
  - Term ["computer science"](http://archive.fo/JrSwK): 60 years ago
  - Term ["software engineering"](http://archive.is/UtWMo): 50 years ago
 
@@ -32,17 +32,19 @@
 
  period    | name
 ---------- | --------------
+
  1930s     | [Alan Turing](people/alan-turing.md)
  1940s     | [Vannevar Bush](people/vannevar-bush.md)
  1950s     | [Claude Shannon](people/claude-shannon.md)
  1960s     | [Douglas Engelbart](people/douglas-engelbart.md)
- 1960s     | [J.C.R. Licklider](people/jcr-licklider.md)
  1960s     | [Ivan Sutherland](people/ivan-sutherland.md)
+ 1960s     | [J.C.R. Licklider](people/jcr-licklider.md)
 
+<details>
+`go run gen-readme.go people/*.md > README.md` to update this index.
+</details>
 
 
 # License
 
 [CC BY-NC-SA 4.0](./LICENSE)
-
-
