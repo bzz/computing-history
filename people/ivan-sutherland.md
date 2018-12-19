@@ -6,14 +6,15 @@ period: 1960s
 
 ### short bio
  - Claud Shennon and Marvin Minsky were on his thesis co
-### affiliations
 
 ### affiliations
- - MIT
- - DARPA, replaced J.C.R. Licklider when he returned to MIT in 1964
+ - Carnegie Institute of Technology (B.S., 1959)
+ - Caltech (M.S., 1960)
+ - MIT (Ph.D., 1963)
+ - DARPA, replaced J.C.R. Licklider when he returned to MIT, 1964
  - Associate Professor of Electrical Engineering at Harvard
  - Professor at the University of Utah
- - Professor of Computer Science at California Institute of Technology
+ - Professor of Computer Science at Caltech
  - Fellow and Vice President at Sun Microsystems
 
 Interactive computing, CGI.

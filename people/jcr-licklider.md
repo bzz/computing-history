@@ -5,9 +5,9 @@ image:
 period: 1960s
 
 ### short bio
-
+American psychologist and computer scientist.
 In 1960 outlined the perspective of interactive computing. 
-Personal computer revolution.
+Starte the personal computer revolution.
 
 ### affiliations
  - MIT

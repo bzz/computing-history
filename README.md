@@ -23,6 +23,8 @@
  - Fossil fuel revolution (coal, trains): 180 years ago
  - Telephone 130 years ago
  - Turing's paper: 85 years ago
+ - Term ["computer science"](http://archive.fo/JrSwK): 60 years ago
+ - Term ["software engineering"](http://archive.is/UtWMo): 50 years ago
 
 [Source](http://math.ucr.edu/home/baez/timeline.html)
 
