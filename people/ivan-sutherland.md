@@ -1,6 +1,6 @@
 name: Ivan Sutherland
 
-image: ![Ivan Sutherland](ivan-sutherland.png)
+image: ![Ivan Sutherland](img/ivan-sutherland.png)
 
 period: 1960s
 
@@ -34,7 +34,7 @@ First virtual reality system.
 ### what to read
  - PhD thesis "Sketchpad, A Man-Machine Graphical Communication System"
  - Article "On courage in Technology"
- - [Chapter 14](http://www.rheingold.com/texts/tft/14.html) in book Tools for Thoughts
+ - [Chapter 14](http://www.rheingold.com/texts/tft/14.html) in book "Tools for Thought"
  - [Turing Award materials](https://amturing.acm.org/award_winners/sutherland_3467412.cfm), 1988
 
 

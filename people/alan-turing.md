@@ -26,6 +26,7 @@ With his 1936 paper kicked of what became a theoretical computer science that de
 ### what to read
  - Paper "On computable numbers with an application to the entscheidungsproblem", 1936
  - Book "Annotated Turing" that works though his seminal paper
+ - [Chapter 3](http://www.rheingold.com/texts/tft/03.html#Chap03) in book "Tools for Thought"
  - Biography book "Alan Turing: The Enigma"
 
 ### what to watch

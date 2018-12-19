@@ -18,7 +18,7 @@ period: 1940s
 
 ### whom did this influence
  - Douglas Engelbart, who read "As we may think" in '45
- - Claude Shannon, student
+ - Claude Shannon, who was his student
 
 ### what to read
  - ["As we may think"](https://web.archive.org/web/20011215033047id_/http://www.isg.sfu.ca:80/~duchier/misc/vbush/vbush-all.shtml) in Atlantic Monthly, July 1945
