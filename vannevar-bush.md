@@ -1,6 +1,6 @@
 name: Vannevar Bush
 
-image: ![Vannevar Bush](http://dougengelbart.org/images/events/vannevar/vb-portrait.gif)
+image: ![Vannevar Bush](img/vannevar-bush.gif)
 
 period: 1940s
 
