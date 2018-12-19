@@ -51,16 +51,26 @@ Having it in some moldable human/machine readable format (sematic web?) + all ex
 ---------------------
 
 
-Generate
- - table in `README.md` based on `<>.md` files
- - xrefs for names in *.md
+ - add Hamming, Ted Nelson, Alan Kay
+ - generate xrefs for names in *.md
 
  ```
-   parse all .md
-   person: (name, slug) //from filename
-    generate & replace table in README
-   book
-   article
+   parse all .md, get
+    person
+    book
+    article
  ```
+ - automate person template structure refactoring?
 
- - person template structure refactoring?
+
+ - content in TOML + rendering to .md
+ - nice <img> position
+
+ - a graph-based model + visualization
+   person
+    studied
+    worked
+    wrote
+   place
+   article/book
+   fact
