@@ -40,7 +40,9 @@
  1960s     | [J.C.R. Licklider](people/jcr-licklider.md)
 
 <details>
-`go run gen-readme.go people/*.md > README.md` to update this index.
+
+To update README and table above.
+`$ go run gen-readme.go people/*.md > README.md`
 </details>
 
 

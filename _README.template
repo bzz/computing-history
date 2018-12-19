@@ -35,7 +35,9 @@
  {{.Period}}     | [{{.Name}}]({{.File}}){{end}}
 
 <details>
-`go run gen-readme.go people/*.md > README.md` to update this index.
+
+To update README and table above.
+`$ go run gen-readme.go people/*.md > README.md`
 </details>
 
 
