@@ -32,10 +32,12 @@
 
  period    | name
 ---------- | --------------
- 1940s     | [Vannevar Bush](vannevar-bush.md)
- 1960s     | [Douglas Engelbart](douglas-engelbart.md)
- 1960s     | [J.C.R. Licklider](jcr-licklider.md)
- 1960s     | [Ivan Sutherland](ivan-sutherland.md)
+ 1930s     | [Alan Turing](people/alan-turing.md)
+ 1940s     | [Vannevar Bush](people/vannevar-bush.md)
+ 1950s     | [Claude Shannon](people/claude-shannon.md)
+ 1960s     | [Douglas Engelbart](people/douglas-engelbart.md)
+ 1960s     | [J.C.R. Licklider](people/jcr-licklider.md)
+ 1960s     | [Ivan Sutherland](people/ivan-sutherland.md)
 
 
 
