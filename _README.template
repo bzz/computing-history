@@ -1,6 +1,11 @@
 # Computing History
 
-> A brief history of computing
+A personal project on putting knowlege about hisotory of computing into perspective.
+
+> “To teach a subject without the history of how it happened is to reduce
+> knowledge to a mere consumer product.”
+
+‒ Neil Postman
 
 # Timeline
 
