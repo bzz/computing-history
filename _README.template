@@ -31,8 +31,7 @@
 # People
 
  period    | name
----------- | --------------
-{{range .}}
+---------- | --------------{{range .}}
  {{.Period}}     | [{{.Name}}]({{.File}}){{end}}
 
 <details>

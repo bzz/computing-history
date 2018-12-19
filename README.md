@@ -32,7 +32,6 @@
 
  period    | name
 ---------- | --------------
-
  1930s     | [Alan Turing](people/alan-turing.md)
  1940s     | [Vannevar Bush](people/vannevar-bush.md)
  1950s     | [Claude Shannon](people/claude-shannon.md)
