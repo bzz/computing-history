@@ -1,6 +1,6 @@
 name: Alan Turing
 
-image: [Alan Turing portrait](img/alan-turing.jpg)
+image: ![Alan Turing portrait](img/alan-turing.jpg)
 
 period: 1930s
 

@@ -1,6 +1,6 @@
 name: Ivan Sutherland
 
-image:
+image: ![Ivan Sutherland](ivan-sutherland.png)
 
 period: 1960s
 
@@ -15,7 +15,9 @@ period: 1960s
  - Associate Professor of Electrical Engineering at Harvard
  - Professor at the University of Utah
  - Professor of Computer Science at Caltech
- - Fellow and Vice President at Sun Microsystems
+ - Worked at RAND's Information Sciences Department, 1974-1986
+ - Worked as Fellow and Vice President at Sun Microsystems
+ - Founder of successful flight-simulation company [Evans&Sutherland](http://www.es.com)
 
 Interactive computing, CGI.
 On TX-2 computer he developed a software+input device for interactive computer graphics.
@@ -28,11 +30,15 @@ First virtual reality system.
  - Doug Engelbart
  - Alan Kay
 
+
 ### what to read
  - PhD thesis "Sketchpad, A Man-Machine Graphical Communication System"
  - Article "On courage in Technology"
- - Chapter in book Tools for Thoughts ""
+ - [Chapter 14](http://www.rheingold.com/texts/tft/14.html) in book Tools for Thoughts
+ - [Turing Award materials](https://amturing.acm.org/award_winners/sutherland_3467412.cfm), 1988
+
 
 ### what to watch
  - demo of the scetchpad, 1963 https://www.youtube.com/watch?v=57wj8diYpgY
- - summer 1962 demo \w Alan Kay comments https://www.youtube.com/watch?v=495nCzxM9PI
+ - Alan Kays lecture with summer 1962 demo of scetchpad https://www.youtube.com/watch?v=495nCzxM9PI
+ - Lecture ["Some Thoughts About Concurrency"](https://www.youtube.com/watch?v=jR9pAaQlVRc)

@@ -1,6 +1,6 @@
 name: J.C.R. Licklider
 
-image:
+image: ![J.C.R. Licklider](img/jcr-licklider.jpeg)
 
 period: 1960s
 

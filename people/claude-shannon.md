@@ -1,6 +1,6 @@
 name: Claude Shannon
 
-image: ![Photo: Alfred Eisenstaedt/The LIFE Picture Collection/Getty Images](img/claude-shannon.jpg)
+image: ![Photo: Alfred Eisenstaedt/The LIFE Picture Collection/Getty Images](img/claude-shannon.jpeg)
 
 period: 1950s
 
