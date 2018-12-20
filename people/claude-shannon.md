@@ -26,6 +26,7 @@ Founder of "information theory".
 
 ### what to read
  - His book "The Mathematical Theory of Communication", 1964
+ - [Chapter 6](http://www.rheingold.com/texts/tft/06.html#Chap06) in book "Tools for Thought"
 
 ### what to watch
  - Documentatry movie ["The Bit Player"](https://www.imdb.com/title/tt5015534/), post-production 2018 ([trailer](https://vimeo.com/288625027))
