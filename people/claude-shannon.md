@@ -10,14 +10,13 @@ American mathematician, electrical engineer, and cryptographer.
 Founder of "information theory".
 
 ### affiliations
- - Worked on [Vannevar Bush's](vannevar-bush.md) differential analyzer, early analog computer.
  - Graduated MIT (Ph.D), 1940
+ - Tought by [Vannevar Bush](vannevar-bush.md), worked on early analog computer - differential analyzer
  - Worked at Institute for Advanced Study
 
 ### notable concepts
  - electrical applications of Boolean algebra
  - "information entropy"
- - shan
 
 ### whom did this influence
  - Richard Hamming
