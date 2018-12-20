@@ -5,12 +5,12 @@ image: ![Vannevar Bush](img/vannevar-bush.gif)
 period: 1940s
 
 ### short bio
- American engineer, inventor and science administrator. 
- Analog computers, "difference engine", Memex
- 1940 rejection of Norbert Norbert Wiener's proposal building digital computer.
+American engineer, inventor and science administrator who coordinated work on 6000+ scientists though WWII. Worked on analog computers, "difference engine", proposed Memex concept after the war. 1940 rejection of Norbert Wiener's proposal on building a digital computer.
 
 ### affiliations
- - MIT, Manhattan Project, AT&T Board member
+ - MIT
+ - Manhattan Project
+ - AT&T Board member
 
 ### notable concepts
  - Differential analyzer (TK link!)

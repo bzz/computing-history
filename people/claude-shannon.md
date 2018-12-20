@@ -12,8 +12,7 @@ Founder of "information theory".
 ### affiliations
  - Worked on [Vannevar Bush's](vannevar-bush.md) differential analyzer, early analog computer.
  - Graduated MIT (Ph.D), 1940
- - Worked at Institute for Advanced Study 
- - 
+ - Worked at Institute for Advanced Study
 
 ### notable concepts
  - electrical applications of Boolean algebra
