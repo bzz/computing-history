@@ -1,12 +1,13 @@
-name: Ivan Sutherland
+<img align="left" width="200" src="img/ivan-sutherland.png">
 
-image: ![Ivan Sutherland](img/ivan-sutherland.png)
+name: Ivan Sutherland </br>
+image: [img/ivan-sutherland.png](img/ivan-sutherland.png) </br>
+period: 1960s </br>
 
-period: 1960s
+-----
 
 ### short bio
-Worked interactive computing and CGI. On TX-2 computer he developed a software+input
-device for interactive computer graphics. Experimented with first virtual reality system.
+Worked interactive computing and CGI. On TX-2 computer he developed a software+input device for interactive computer graphics. Experimented with first virtual reality system.
 
 
 ### affiliations

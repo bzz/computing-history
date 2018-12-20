@@ -1,9 +1,10 @@
-name: Claude Shannon
+<img align="left" width="200" src="img/claude-shannon.jpeg">
 
-image: ![Photo: Alfred Eisenstaedt/The LIFE Picture Collection/Getty Images](img/claude-shannon.jpeg)
+name: Claude Shannon </br>
+image: [img/claude-shannon.jpeg](img/claude-shannon.jpeg) _(Photo: Alfred Eisenstaedt/The LIFE Picture Collection/Getty Images)_</br>
+period: 1950s </br>
 
-period: 1950s
-
+------
 
 ### short bio
 American mathematician, electrical engineer, and cryptographer. 

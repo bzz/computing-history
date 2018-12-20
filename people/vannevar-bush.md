@@ -1,8 +1,10 @@
-name: Vannevar Bush
+<img align="left" width="200" src="img/vannevar-bush.gif">
 
-image: ![Vannevar Bush](img/vannevar-bush.gif)
+name: Vannevar Bush </br>
+image: [img/vannevar-bush.gif](img/vannevar-bush.gif) </br>
+period: 1940s </br>
 
-period: 1940s
+------
 
 ### short bio
 American engineer, inventor and science administrator who coordinated work on 6000+ scientists though WWII. Worked on analog computers, "difference engine", proposed Memex concept after the war. 1940 rejection of Norbert Wiener's proposal on building a digital computer.

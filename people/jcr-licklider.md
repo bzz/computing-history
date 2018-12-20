@@ -1,8 +1,10 @@
-name: J.C.R. Licklider
+<img align="left" width="200" src="img/jcr-licklider.jpg">
 
-image: ![J.C.R. Licklider](img/jcr-licklider.jpg)
+name: J.C.R. Licklider </br>
+image: [img/jcr-licklider.jpg](img/jcr-licklider.jpg) </br>
+period: 1960s </br>
 
-period: 1960s
+-------
 
 ### short bio
 American psychologist and computer scientist.

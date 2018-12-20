@@ -1,8 +1,10 @@
-name: Douglas Engelbart
+<img align="left" width="200" src="img/douglas-engelbart.jpg">
 
-image: ![Douglas Engelbart](img/douglas-engelbart.jpeg)
+name: Douglas Engelbart </br>
+image: [img/douglas-engelbart.jpeg](img/douglas-engelbart.jpg) </br>
+period: 1960s </br>
 
-period: 1960s
+--------
 
 ### short bio
 After the army, 35 y.o switched to studing engineering.
