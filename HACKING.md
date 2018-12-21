@@ -47,11 +47,15 @@ Having it in some moldable human/machine readable format (sematic web?) + all ex
  - https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
  - http://mrmgroup.cs.princeton.edu/cos583/syllabusS15.pdf
 
+ # Timelines
+ - http://www.computerhistory.org/timeline/computers/
+ - https://www.denizcemonduygu.com/philo/browse/
+
 
 ---------------------
 
 
- - add Hamming, Ted Nelson, Alan Kay
+ - add Norbert Wiener, Marvin Minsky, John McCarthy, Richard Hamming, Ted Nelson, Alan Kay
  - generate xrefs for names in *.md
 
  ```
@@ -68,9 +72,41 @@ Having it in some moldable human/machine readable format (sematic web?) + all ex
 
  - a graph-based model + visualization
    person
+    :name
+    :slug
+    :period
     studied
     worked
     wrote
    place
    article/book
    fact
+
+A Graph DB + Query language
+
+https://en.wikipedia.org/wiki/Wikipedia:List_of_infoboxes
+
+https://en.wikipedia.org/wiki/Template:Infobox_person
+https://en.wikipedia.org/wiki/Template:Infobox_scientist
+
+DBPedia has already scrapped it, using Apache Spark!!!
+ https://github.com/dbpedia/extraction-framework#about-dbpedia
+ https://github.com/dbpedia/extraction-framework#dbpedia-extraction-framework-now-powered-by-apache-spark
+
+<http://dbpedia.org/ontology/notableStudent>
+<http://dbpedia.org/ontology/doctoralStudent>
+<http://dbpedia.org/ontology/influenced>
+
+<http://dbpedia.org/resource/Vannevar_Bush>	<http://dbpedia.org/ontology/notableStudent>	<http://dbpedia.org/resource/Frederick_Terman> .
+
+```
+g.V().Has("<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>", "<http://dbpedia.org/ontology/Person>").All()
+
+g.V()
+ .Has("<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>", "<http://dbpedia.org/ontology/Person>")
+ .Tag("source")
+ .Out("<http://dbpedia.org/ontology/notableStudent>")
+ .Tag("target")
+ .All()
+```
+
