@@ -5,16 +5,15 @@ A personal project on putting knowledge about history of computing into perspect
 > “To teach a subject without the history of how it happened is to reduce
 > knowledge to a mere consumer product.”
 
-‒ Neil Postman
+‒ [Neil Postman](https://en.wikipedia.org/wiki/Neil_Postman)
 
 # Timeline
 
  - Universe age: 13.7 billion years (The Big Bang)
  - Earth age: 4.45 billion years
- - First Life on Earth: 4 billion years ago
+ - First life on Earth: 4 billion years ago
  - First plants: 1.3 billion years ago
  - First birds: 150 million years ago
- - Humans split off from other apes: 5 million years ago
  - First Homo sapiens: 250,000 years ago
  - First cave paintings: 32,000 years
  - First cities: 8,800 years ago
