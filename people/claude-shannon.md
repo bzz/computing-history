@@ -24,7 +24,7 @@ Founder of "information theory".
  - Everyone
 
 ### what to read
- - His book "The Mathematical Theory of Communication", 1964
+ - His book ["The Mathematical Theory of Communication"](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication), 1964
  - [Chapter 6](http://www.rheingold.com/texts/tft/06.html#Chap06) in book "Tools for Thought"
 
 ### what to watch

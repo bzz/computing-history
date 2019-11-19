@@ -55,7 +55,9 @@ Having it in some moldable human/machine readable format (sematic web?) + all ex
 ---------------------
 
 
- - add Norbert Wiener, Marvin Minsky, John McCarthy, Richard Hamming, Ted Nelson, Alan Kay
+ - add Alan Perils, John Tukey
+ - add Norbert Wiener, Marvin Minsky, John McCarthy
+ - Richard Hamming, Ted Nelson, Alan Kay
  - generate xrefs for names in *.md
 
  ```

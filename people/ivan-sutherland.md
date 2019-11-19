@@ -41,5 +41,5 @@ Worked interactive computing and CGI. On TX-2 computer he developed a software+i
 ### what to watch
  - original demo of the scetchpad, 1963 https://www.youtube.com/watch?v=57wj8diYpgY
  - Alan Kay lecture, showing summer 1962 demo of scetchpad https://www.youtube.com/watch?v=495nCzxM9PI
- - Sketchpad demo with author's comments https://www.youtube.com/watch?v=-sbeghygOt4 1994
- - Lecture ["Some Thoughts About Concurrency"](https://www.youtube.com/watch?v=jR9pAaQlVRc)
+ - Sketchpad demo with author's comments https://www.youtube.com/watch?v=-sbeghygOt4, 1994
+ - Lecture ["Some Thoughts About Concurrency"](https://www.youtube.com/watch?v=jR9pAaQlVRc), 2010

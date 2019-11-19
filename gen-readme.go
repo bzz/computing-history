@@ -10,9 +10,12 @@ import (
 	"text/template"
 )
 
-const templateFile = "_README.template"
+const (
+	templateFile = "_README.template"
+	htmlNewline  = "</br>"
+)
 
-// Generate table in README from profiles in .md and a templaet
+// Generate table in README from profiles in .md and a template
 // Usage:
 //  go run gen-readme.go *.md > README.md
 
@@ -56,8 +59,10 @@ func readFrom(file string) (*person, error) {
 		return nil, err
 	}
 
-	p.Name = strings.TrimSpace(string(reName.FindSubmatch(data)[1]))
-	p.Period = strings.TrimSpace(string(rePeriod.FindSubmatch(data)[1]))
+	name := string(reName.FindSubmatch(data)[1])
+	period := string(rePeriod.FindSubmatch(data)[1])
+	p.Name = strings.TrimSpace(strings.TrimSuffix(name, htmlNewline))
+	p.Period = strings.TrimSpace(strings.TrimSuffix(period, htmlNewline))
 
 	return p, nil
 }
