@@ -14,7 +14,7 @@ Worked interactive computing and CGI. On TX-2 computer he developed a software+i
  - Carnegie Institute of Technology (B.S., 1959)
  - Caltech (M.S., 1960)
  - MIT (Ph.D., 1963)
- - Tought by [Claud Shennon](claude-shannon.md), Marvin Minsky
+ - Taught by [Claud Shennon](claude-shannon.md), Marvin Minsky
  - DARPA, replaced [J.C.R. Licklider](jcr-licklider.md) when he returned to MIT, 1964
  - Associate Professor of Electrical Engineering at Harvard
  - Professor at the University of Utah
@@ -32,14 +32,14 @@ Worked interactive computing and CGI. On TX-2 computer he developed a software+i
 
 
 ### what to read
- - PhD thesis ["Sketchpad, A Man-Machine Graphical Communication System"]( https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
- - Article "On courage in Technology"
+ - PhD thesis ["Sketchpad, A Man-Machine Graphical Communication System"](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
+ - Article ["Technology and Courage"](https://cseweb.ucsd.edu/~wgg/smli_ps-1.pdf)
  - [Chapter 14](http://www.rheingold.com/texts/tft/14.html) in book "Tools for Thought"
  - [Turing Award materials](https://amturing.acm.org/award_winners/sutherland_3467412.cfm), 1988
 
 
 ### what to watch
- - original demo of the scetchpad, 1963 https://www.youtube.com/watch?v=57wj8diYpgY
- - Alan Kay lecture, showing summer 1962 demo of scetchpad https://www.youtube.com/watch?v=495nCzxM9PI
- - Sketchpad demo with author's comments https://www.youtube.com/watch?v=-sbeghygOt4, 1994
+ - [original demo of the sketchpad](https://www.youtube.com/watch?v=57wj8diYpgY), 1963
+ - Alan Kay lecture, showing [summer 1962 demo of sketchpad](https://www.youtube.com/watch?v=495nCzxM9PI)
+ - Lecture with a [sketchpad demo and author's comments](https://www.youtube.com/watch?v=-sbeghygOt4), 1994
  - Lecture ["Some Thoughts About Concurrency"](https://www.youtube.com/watch?v=jR9pAaQlVRc), 2010

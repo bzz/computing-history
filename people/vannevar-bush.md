@@ -28,4 +28,4 @@ American engineer, inventor and science administrator who coordinated work on 60
  - https://www.ibiblio.org/pioneers/bush.html
 
 ### what to watch
- - MIT/Brown [Vannevar Bush symposium](http://dougengelbart.org/content/view/258/000/), celebrating the 50th anniversary of "As we may think" pubilcation, 1995
+ - MIT/Brown [Vannevar Bush symposium](http://dougengelbart.org/content/view/258/000/), celebrating the 50th anniversary of "As we may think" publication, 1995
