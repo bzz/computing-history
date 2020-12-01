@@ -1,9 +1,10 @@
-name:
+<img align="left" width="200" src="img/<name>.jpg">
 
-image:
+name: </br>
+image: [img/<name>.jpg](img/<name>.jpg) </br>
+period: </br>
 
-period:
-
+---------
 
 ### short bio
  -
