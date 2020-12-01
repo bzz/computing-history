@@ -1,6 +1,6 @@
 <img align="left" width="200" src="img/alan-turing.jpg">
 
-name: Alan Turing </br>
+name: Alan Mathison Turing </br>
 image: [img/alan-turing.jpg](img/alan-turing.jpg) </br>
 period: 1930s </br>
 
