@@ -28,8 +28,8 @@ A personal project on putting knowledge about history of computing into perspect
  - Term ["computer science"](http://archive.fo/JrSwK): 60 years ago (1959)
  - Term ["software engineering"](http://archive.is/UtWMo): 50 years ago (1968)
  - First 4 node ARPANET: 50 yeas ago (5 December 1969)
- - Early Internet (TCP/IP as [main protocol in ARPANET](https://en.wikipedia.org/wiki/ARPANET#Adoption_of_TCP/IP)): 40 years ago (1983)
- - Public commercial use of the Internet: 30 years ago (1990)
+ - Early Internet (TCP/IP as [main protocol in ARPANET](https://en.wikipedia.org/wiki/ARPANET#Software_and_protocols)): 40 years ago (1983)
+ - Public commercial use of Internet: 30 years ago (1990)
 
 [Source](http://math.ucr.edu/home/baez/timeline.html)
 
@@ -37,8 +37,9 @@ A personal project on putting knowledge about history of computing into perspect
 
  period    | name
 ---------- | --------------
- 1930s     | [Alan Turing](people/alan-turing.md)
+ 1930s     | [Alan Mathison Turing](people/alan-turing.md)
  1940s     | [Vannevar Bush](people/vannevar-bush.md)
+ 1950s     | [Alan Jay Perlis](people/alan-perlis.md)
  1950s     | [Claude Shannon](people/claude-shannon.md)
  1960s     | [Douglas Engelbart](people/douglas-engelbart.md)
  1960s     | [Ivan Sutherland](people/ivan-sutherland.md)
